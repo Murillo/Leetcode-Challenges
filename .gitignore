@@ -25,3 +25,8 @@ replay_pid*
 
 # IntelliJ IDEA files
 .idea/*
+*.iml
+
+# System files
+.DS_Store
+**/src
