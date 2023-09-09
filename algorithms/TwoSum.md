@@ -1,10 +1,9 @@
 # Two Sum challenge
 
-To prevent iterating over the number collection multiple times, a **Hashmap** is created to store the difference between target and each previously encountered number. In the next iteration, the code checks if the current number is the remaining value of any subtraction performed previously. This approach helps to optimize the code's performance and avoid unnecessary computations.
+To prevent iterating over the number collection multiple times, a ***Hashmap*** is created to store the difference between target and each previously encountered number. In the next iteration, the code checks if the current number is the remaining value of any subtraction performed previously. This approach helps to optimize the code's performance and avoid unnecessary computations.
 
 ### Complexities
-Time complexity **O(n)**
-
+Time complexity **O(n)**\
 Space complexity: **O(n)**
 
 ### Java
