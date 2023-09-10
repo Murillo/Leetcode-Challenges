@@ -1,5 +1,6 @@
 # LeetCode Challenges
 
-| Challenge                                                                                | Level |
-|:-----------------------------------------------------------------------------------------|:-----:|
-| [Two Sum](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/TwoSum.md) | Easy  |
+| Challenge                                                                                                      | Level |
+|:---------------------------------------------------------------------------------------------------------------|:-----:|
+| [Two Sum](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/TwoSum.md)                       | Easy  |
+| [Contains Duplicate](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/ContainsDuplicate.md) | Easy  |
