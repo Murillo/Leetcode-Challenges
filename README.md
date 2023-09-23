@@ -7,3 +7,4 @@
 | [Permutation](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/Permutation.md)              |      Java      | Medium | 
 | [Combination Sum](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/CombinationSum.md)       |      Java      | Medium |
 | [Combination Sum II](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/CombinationSum2.md)   |      Java      | Medium |
+| [Combination Sum III](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/CombinationSum3.md)  |      Java      | Medium |
