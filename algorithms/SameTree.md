@@ -88,4 +88,4 @@ public class Solution {
 ```
 
 ### References
-[Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+[Leetcode](https://leetcode.com/problems/same-tree/)
