@@ -1,4 +1,4 @@
-# Invert Binary Tree
+# Is Subsequence
 
 This algorithm involves checking every character in a variable called `t`. A new variable `cursor` is created to store the position being checked in variable `s`. Each time the characters match, the `cursor` increments by 1. If the cursor value is the same as the value of variable `s`, it indicates that `s` is a sub-sequence of `t`.
 
