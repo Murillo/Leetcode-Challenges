@@ -12,6 +12,7 @@
 | [Is Subsequence](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/IsSubsequence.md)                                 |      Java      |    Two Pointers     |  Easy  |
 | [Best Time to Buy and Sell Stock](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/BestTimeToBuyAndSellStock.md)    |      Java      |        Array        |  Easy  |
 | [Best Time to Buy and Sell Stock 2](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/BestTimeToBuyAndSellStock2.md) |      Java      |        Array        | Medium |
+| [Rotate Array](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/RotateArray.md)                                     |      Java      |        Array        | Medium |
 | [Maximum Product Subarray](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/MaximumProductSubarray.md)              |      Java      |        Array        | Medium |
 | [Maximum Subarray](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/MaximumSubarray.md)                             |      Java      |   Sliding Window    | Medium |
 | [Two Sum II - Input Array Is Sorted](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/TwoSum2.md)                   |      Java      |    Two Pointers     | Medium |
