@@ -8,8 +8,6 @@ Space complexity: **O(1)**
 
 ### Java implementation
 
-### Java implementation
-
 ``` Java
 package rotatelist;
 
