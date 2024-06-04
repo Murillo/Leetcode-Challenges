@@ -28,4 +28,5 @@
 | [Product of Array Except Self](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/ProductOfArrayExceptSelf.md)        |      Java      |     Prefix Sum      | Medium |
 | [Coin Change](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/CoinChange.md)                                       |      Java      | Dynamic Programming | Medium |
 | [Longest Increasing Subsequence](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/LongestIncreasingSubsequence.md)  |      Java      | Dynamic Programming | Medium |
+| [Find the Duplicate Number](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/FindTheDuplicateNumber.md)             |      Java      |    Two Pointers     | Medium |
 | [Binary Tree Maximum Path Sum](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/BinaryTreeMaximumPathSum.md)        |      Java      |        Tree         |  Hard  |
