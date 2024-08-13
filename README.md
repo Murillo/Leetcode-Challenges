@@ -11,6 +11,7 @@
 | [Invert Binary Tree](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/InvertBinaryTree.md)                          |      Java      |        Tree         |  Easy  |
 | [Reverse Linked List](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/ReverseLinkedlist.md)                        |      Java      |     Linked List     |  Easy  |
 | [Is Subsequence](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/IsSubsequence.md)                                 |      Java      |    Two Pointers     |  Easy  |
+| [Longest Common Prefix](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/LongestCommonPrefix.md)                    |      Java      |       String        |  Easy  |
 | [Best Time to Buy and Sell Stock](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/BestTimeToBuyAndSellStock.md)    |      Java      |        Array        |  Easy  |
 | [Best Time to Buy and Sell Stock 2](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/BestTimeToBuyAndSellStock2.md) |      Java      |        Array        | Medium |
 | [Rotate List](https://github.com/Murillo/Leetcode-Challenges/blob/main/algorithms/RotateList.md)                                       |      Java      |     Linked List     | Medium |
